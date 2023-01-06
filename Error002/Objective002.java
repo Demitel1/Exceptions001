@@ -2,7 +2,7 @@ package Objective002;
 
 import java.util.Random;
 
-public class Task3 {
+public class Exceptions {
     public static void main(String[] args) {
         int[] firstArray = getFilledArray(10);
         int[] secondArray = getFilledArray(10);
